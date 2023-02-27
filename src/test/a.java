@@ -7,6 +7,7 @@ public class a {
         System.out.println("hello master");
         System.out.println("hello hot-fix");
         System.out.println("remote test2");
+        System.out.println("远程库修改");
     }
 
 }
